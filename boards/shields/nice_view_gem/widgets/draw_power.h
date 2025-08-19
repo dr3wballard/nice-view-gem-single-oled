@@ -4,4 +4,4 @@
 #include "util.h"
 #include "screen.h"
 
-void draw_power(lv_obj_t *canvas);
+void draw_animation(lv_obj_t *canvas);
