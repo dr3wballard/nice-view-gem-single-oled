@@ -32,11 +32,6 @@ LV_IMG_DECLARE(power_27);
 LV_IMG_DECLARE(power_28);
 LV_IMG_DECLARE(power_29);
 LV_IMG_DECLARE(power_30);
-LV_IMG_DECLARE(power_31);
-LV_IMG_DECLARE(power_32);
-LV_IMG_DECLARE(power_33);
-LV_IMG_DECLARE(power_34);
-LV_IMG_DECLARE(power_35);
 
 const lv_img_dsc_t *anim_imgs[] = {
     &power_01, &power_02, &power_03, &power_04, &power_05, &power_06,
@@ -44,7 +39,6 @@ const lv_img_dsc_t *anim_imgs[] = {
     &power_13, &power_14, &power_15, &power_16, &power_17, &power_18,
     &power_19, &power_20, &power_21, &power_22, &power_23, &power_24,
     &power_25, &power_26, &power_27, &power_28, &power_29, &power_30,
-    &power_31, &power_32, &power_33, &power_34, &power_35,
 };
 
 void draw_animation(lv_obj_t *canvas) {
