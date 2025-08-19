@@ -4,4 +4,4 @@
 #include "util.h"
 #include "screen.h"
 
-void draw_finn(lv_obj_t *canvas);
+void draw_power(lv_obj_t *canvas);
